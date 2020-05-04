@@ -23,7 +23,6 @@ A retail store app for inventory and sales management.
 - Redux
 - Hooks
 - Styled Components
-- Materialize
 
 # Mockup
 
