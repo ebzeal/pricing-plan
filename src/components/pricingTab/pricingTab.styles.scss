@@ -1,0 +1,10 @@
+.large {
+  height: 150px;
+}
+
+.makeStyles-root-1{
+
+  @media only screen and (max-device-width: 800px) {
+    margin: 5% 0 5% 5%;
+  }
+}

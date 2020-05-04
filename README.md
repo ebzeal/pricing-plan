@@ -1,4 +1,4 @@
-# react-webpack-boiler-plate
+# pricing-plan
 
 A retail store app for inventory and sales management.
 
