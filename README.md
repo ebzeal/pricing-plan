@@ -20,9 +20,9 @@ A retail store app for inventory and sales management.
 - CSS
 - JavaScript
 - React JS
-- Redux
 - Hooks
 - Styled Components
+- Material UI
 
 # Mockup
 
